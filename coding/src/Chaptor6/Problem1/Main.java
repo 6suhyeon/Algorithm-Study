@@ -1,4 +1,4 @@
-package Chaptor6;
+package Chaptor6.Problem1;
 
 import java.util.Scanner;
 import java.util.Stack;
